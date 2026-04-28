@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pkl
+*.joblib
+data/*.csv
+outputs/models/*
+outputs/plots/*
+!outputs/models/.gitkeep
+!outputs/plots/.gitkeep
